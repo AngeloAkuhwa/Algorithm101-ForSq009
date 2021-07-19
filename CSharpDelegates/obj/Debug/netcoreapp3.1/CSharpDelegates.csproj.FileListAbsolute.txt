@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.pdb

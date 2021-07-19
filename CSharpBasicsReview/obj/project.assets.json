@@ -1,0 +1,227 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DataAccess": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "CSharpDelegates/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CSharpDelegates.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSharpDelegates.dll": {}
+        }
+      },
+      "CustomArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CustomArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomArray.dll": {}
+        }
+      },
+      "CustomLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CustomLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomLinkedList.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "QueueDataStructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/QueueDataStructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QueueDataStructure.dll": {}
+        }
+      },
+      "StackDataStructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StackDataStructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StackDataStructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "CSharpDelegates/1.0.0": {
+      "type": "project",
+      "path": "../CSharpDelegates/CSharpDelegates.csproj",
+      "msbuildProject": "../CSharpDelegates/CSharpDelegates.csproj"
+    },
+    "CustomArray/1.0.0": {
+      "type": "project",
+      "path": "../CustomArray/CustomArray.csproj",
+      "msbuildProject": "../CustomArray/CustomArray.csproj"
+    },
+    "CustomLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../LinkedList/CustomLinkedList.csproj",
+      "msbuildProject": "../LinkedList/CustomLinkedList.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "QueueDataStructure/1.0.0": {
+      "type": "project",
+      "path": "../QueueDataStructure/QueueDataStructure.csproj",
+      "msbuildProject": "../QueueDataStructure/QueueDataStructure.csproj"
+    },
+    "StackDataStructure/1.0.0": {
+      "type": "project",
+      "path": "../StackDataStructure/StackDataStructure.csproj",
+      "msbuildProject": "../StackDataStructure/StackDataStructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CSharpDelegates >= 1.0.0",
+      "Core >= 1.0.0",
+      "CustomArray >= 1.0.0",
+      "CustomLinkedList >= 1.0.0",
+      "QueueDataStructure >= 1.0.0",
+      "StackDataStructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CSharpBasicsReview\\CSharpBasicsReview.csproj",
+      "projectName": "CSharpBasicsReview",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CSharpBasicsReview\\CSharpBasicsReview.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CSharpBasicsReview\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\Core\\Core.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CSharpDelegates\\CSharpDelegates.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CSharpDelegates\\CSharpDelegates.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CustomArray\\CustomArray.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CustomArray\\CustomArray.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\LinkedList\\CustomLinkedList.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\LinkedList\\CustomLinkedList.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\QueueDataStructure\\QueueDataStructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\QueueDataStructure\\QueueDataStructure.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\StackDataStructure\\StackDataStructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\StackDataStructure\\StackDataStructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

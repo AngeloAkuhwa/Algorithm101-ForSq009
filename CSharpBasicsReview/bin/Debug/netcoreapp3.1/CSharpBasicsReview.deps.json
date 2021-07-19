@@ -1,0 +1,118 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpBasicsReview/1.0.0": {
+        "dependencies": {
+          "CSharpDelegates": "1.0.0",
+          "Core": "1.0.0",
+          "CustomArray": "1.0.0",
+          "CustomLinkedList": "1.0.0",
+          "QueueDataStructure": "1.0.0",
+          "StackDataStructure": "1.0.0"
+        },
+        "runtime": {
+          "CSharpBasicsReview.dll": {}
+        }
+      },
+      "Core/1.0.0": {
+        "dependencies": {
+          "DataAccess": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "Core.dll": {}
+        }
+      },
+      "CSharpDelegates/1.0.0": {
+        "runtime": {
+          "CSharpDelegates.dll": {}
+        }
+      },
+      "CustomArray/1.0.0": {
+        "runtime": {
+          "CustomArray.dll": {}
+        }
+      },
+      "CustomLinkedList/1.0.0": {
+        "runtime": {
+          "CustomLinkedList.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "QueueDataStructure/1.0.0": {
+        "runtime": {
+          "QueueDataStructure.dll": {}
+        }
+      },
+      "StackDataStructure/1.0.0": {
+        "runtime": {
+          "StackDataStructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpBasicsReview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpDelegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QueueDataStructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StackDataStructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

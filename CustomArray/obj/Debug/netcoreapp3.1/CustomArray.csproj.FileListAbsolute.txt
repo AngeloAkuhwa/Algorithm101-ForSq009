@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.pdb

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\CSharpDelegates\CSharpDelegates.csproj" />
+    <ProjectReference Include="..\CustomArray\CustomArray.csproj" />
+    <ProjectReference Include="..\LinkedList\CustomLinkedList.csproj" />
+    <ProjectReference Include="..\QueueDataStructure\QueueDataStructure.csproj" />
+    <ProjectReference Include="..\StackDataStructure\StackDataStructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\bin\Debug\netcoreapp3.1\QueueDataStructure.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\bin\Debug\netcoreapp3.1\QueueDataStructure.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\bin\Debug\netcoreapp3.1\QueueDataStructure.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\obj\Debug\netcoreapp3.1\QueueDataStructure.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\obj\Debug\netcoreapp3.1\QueueDataStructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\obj\Debug\netcoreapp3.1\QueueDataStructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\obj\Debug\netcoreapp3.1\QueueDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\obj\Debug\netcoreapp3.1\QueueDataStructure.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\QueueDataStructure\obj\Debug\netcoreapp3.1\QueueDataStructure.pdb
