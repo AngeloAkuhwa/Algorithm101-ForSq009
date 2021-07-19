@@ -6,12 +6,10 @@ namespace QueueDataStructure
     public class PriorityQueue
     {
         int[] resultHolder;
-        int[] sortedArray;
         private int size;
         public PriorityQueue()
         {
             resultHolder = new int[5];
-            sortedArray = new int[5];
         }
         public void Add(int item)
         {
@@ -33,7 +31,7 @@ namespace QueueDataStructure
             resultHolder[i+1] = item;
             size++;
 
-            //1 2 3 4
+            
         }
 
         public void Print()
@@ -50,7 +48,7 @@ namespace QueueDataStructure
 
         public int[] ArraySorting(int[] input)
         {
-
+            //method one: bubble sorting approach: though inefficient
 
             var itemMoved = false;
             do
