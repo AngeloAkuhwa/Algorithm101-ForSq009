@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\bin\Debug\netcoreapp3.1\DictionaryDataStructure.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\bin\Debug\netcoreapp3.1\DictionaryDataStructure.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\bin\Debug\netcoreapp3.1\DictionaryDataStructure.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\obj\Debug\netcoreapp3.1\DictionaryDataStructure.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\obj\Debug\netcoreapp3.1\DictionaryDataStructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\obj\Debug\netcoreapp3.1\DictionaryDataStructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\obj\Debug\netcoreapp3.1\DictionaryDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\obj\Debug\netcoreapp3.1\DictionaryDataStructure.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\HashTable\obj\Debug\netcoreapp3.1\DictionaryDataStructure.pdb

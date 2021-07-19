@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
 namespace QueueDataStructure
@@ -50,7 +51,7 @@ namespace QueueDataStructure
         {
             //method one: bubble sorting approach: though inefficient
 
-            var itemMoved = false;
+            bool itemMoved;
             do
             {
                 itemMoved = false;
@@ -68,6 +69,36 @@ namespace QueueDataStructure
 
             return input;
 
+        }
+       
+
+        public int[] Sort(int[] arr)
+        {
+            int[] art = new int[arr.Length];
+            int counter = 0;
+
+            foreach (int number in arr)
+            {
+                int index = 0;
+
+                for (int i = 0; i < arr.Length;  i++)
+                {
+                    if(number > arr[counter])
+                    {
+                        art[counter + 1] = number;
+                        art[counter++] = number;
+
+                    }
+
+                    break;
+                }
+
+                art[index++] = number;
+
+
+            }
+
+            return art;
         }
     }
 }

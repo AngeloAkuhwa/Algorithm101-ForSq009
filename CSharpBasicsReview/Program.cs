@@ -1,8 +1,6 @@
-﻿using QueueDataStructure;
-using StackDataStructure;
+﻿using DatastructureHashTbale;
+using DictionaryDataStructure;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CSharpBasicsReview
 {
@@ -81,12 +79,33 @@ namespace CSharpBasicsReview
         static void Main(string[] args)
         {
 
-            PriorityQueue queue = new PriorityQueue();
-            var x = queue.ArraySorting(new int[] {2,58,46,89,5,8,4,8,1,1,2,9,7,5,31,5,7,7,4,5 });
-            foreach (var item in x)
-            {
-                Console.WriteLine(item);
-            }
+
+            MyHashTable customeHashTable = new MyHashTable();
+            customeHashTable.Put(6, "A");
+            customeHashTable.Put(8, "C");
+            customeHashTable.Put(11, "C");
+
+            Console.WriteLine(customeHashTable);
+
+            //MyDictionary dict = new MyDictionary();
+            //var result = dict.FindFirstRepeatingCharacter("aboyisajumpinggg ");
+            //Console.WriteLine(result);
+            //Console.WriteLine();
+            //Console.WriteLine();
+
+
+
+            //var result2 = dict.OptimisedFindingFirstRepeatedCharacter("aboyiasjumpinggg ");
+            //Console.WriteLine(result2);
+
+
+
+            //PriorityQueue queue = new PriorityQueue();
+            //var x = queue.ArraySorting(new int[] {2,58,46,89,5,8,4,8,1,1,2,9,7,5,31,5,7,7,4,5 });
+            //foreach (var item in x)
+            //{
+            //    Console.WriteLine(item);
+            //}
 
             //bool stackMethod = MyStack.IsBalancedExpression("[1+3*6/7(jhbvdsgh)[]{}]");
             //Console.WriteLine(stackMethod);

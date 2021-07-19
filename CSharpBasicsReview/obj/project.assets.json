@@ -59,6 +59,26 @@
           "bin/placeholder/DataAccess.dll": {}
         }
       },
+      "DatastructureHashTbale/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DatastructureHashTbale.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatastructureHashTbale.dll": {}
+        }
+      },
+      "DictionaryDataStructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DictionaryDataStructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DictionaryDataStructure.dll": {}
+        }
+      },
       "Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -117,6 +137,16 @@
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
     },
+    "DatastructureHashTbale/1.0.0": {
+      "type": "project",
+      "path": "../DatastructureHashTbale/DatastructureHashTbale.csproj",
+      "msbuildProject": "../DatastructureHashTbale/DatastructureHashTbale.csproj"
+    },
+    "DictionaryDataStructure/1.0.0": {
+      "type": "project",
+      "path": "../HashTable/DictionaryDataStructure.csproj",
+      "msbuildProject": "../HashTable/DictionaryDataStructure.csproj"
+    },
     "Models/1.0.0": {
       "type": "project",
       "path": "../Models/Models.csproj",
@@ -139,6 +169,8 @@
       "Core >= 1.0.0",
       "CustomArray >= 1.0.0",
       "CustomLinkedList >= 1.0.0",
+      "DatastructureHashTbale >= 1.0.0",
+      "DictionaryDataStructure >= 1.0.0",
       "QueueDataStructure >= 1.0.0",
       "StackDataStructure >= 1.0.0"
     ]
@@ -183,6 +215,12 @@
             },
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CustomArray\\CustomArray.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CustomArray\\CustomArray.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\DatastructureHashTbale\\DatastructureHashTbale.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\DatastructureHashTbale\\DatastructureHashTbale.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\HashTable\\DictionaryDataStructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\HashTable\\DictionaryDataStructure.csproj"
             },
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\LinkedList\\CustomLinkedList.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\LinkedList\\CustomLinkedList.csproj"

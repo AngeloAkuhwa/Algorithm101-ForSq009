@@ -28,3 +28,7 @@ C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcore
 C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\StackDataStructure.pdb
 C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\QueueDataStructure.dll
 C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\QueueDataStructure.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DictionaryDataStructure.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DictionaryDataStructure.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DatastructureHashTbale.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DatastructureHashTbale.pdb

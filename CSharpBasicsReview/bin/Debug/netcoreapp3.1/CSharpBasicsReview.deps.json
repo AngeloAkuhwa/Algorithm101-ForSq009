@@ -12,6 +12,8 @@
           "Core": "1.0.0",
           "CustomArray": "1.0.0",
           "CustomLinkedList": "1.0.0",
+          "DatastructureHashTbale": "1.0.0",
+          "DictionaryDataStructure": "1.0.0",
           "QueueDataStructure": "1.0.0",
           "StackDataStructure": "1.0.0"
         },
@@ -49,6 +51,16 @@
         },
         "runtime": {
           "DataAccess.dll": {}
+        }
+      },
+      "DatastructureHashTbale/1.0.0": {
+        "runtime": {
+          "DatastructureHashTbale.dll": {}
+        }
+      },
+      "DictionaryDataStructure/1.0.0": {
+        "runtime": {
+          "DictionaryDataStructure.dll": {}
         }
       },
       "Models/1.0.0": {
@@ -95,6 +107,16 @@
       "sha512": ""
     },
     "DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatastructureHashTbale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DictionaryDataStructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

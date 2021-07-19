@@ -9,6 +9,8 @@
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\CSharpDelegates\CSharpDelegates.csproj" />
     <ProjectReference Include="..\CustomArray\CustomArray.csproj" />
+    <ProjectReference Include="..\DatastructureHashTbale\DatastructureHashTbale.csproj" />
+    <ProjectReference Include="..\HashTable\DictionaryDataStructure.csproj" />
     <ProjectReference Include="..\LinkedList\CustomLinkedList.csproj" />
     <ProjectReference Include="..\QueueDataStructure\QueueDataStructure.csproj" />
     <ProjectReference Include="..\StackDataStructure\StackDataStructure.csproj" />

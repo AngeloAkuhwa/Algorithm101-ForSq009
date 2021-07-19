@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\bin\Debug\netcoreapp3.1\DatastructureHashTbale.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\bin\Debug\netcoreapp3.1\DatastructureHashTbale.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\bin\Debug\netcoreapp3.1\DatastructureHashTbale.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\obj\Debug\netcoreapp3.1\DatastructureHashTbale.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\obj\Debug\netcoreapp3.1\DatastructureHashTbale.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\obj\Debug\netcoreapp3.1\DatastructureHashTbale.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\obj\Debug\netcoreapp3.1\DatastructureHashTbale.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\obj\Debug\netcoreapp3.1\DatastructureHashTbale.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureHashTbale\obj\Debug\netcoreapp3.1\DatastructureHashTbale.pdb
