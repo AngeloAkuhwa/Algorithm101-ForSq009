@@ -1,5 +1,7 @@
-﻿using DatastructureHashTbale;
+﻿using DatastructureBinaryTree;
+using DatastructureHashTbale;
 using DictionaryDataStructure;
+using OOP_PrinciplesForSQ008;
 using System;
 
 namespace CSharpBasicsReview
@@ -78,14 +80,29 @@ namespace CSharpBasicsReview
         }
         static void Main(string[] args)
         {
+            Tree tree = new Tree();
+            tree.Insert(7);
+            tree.Insert(4);
+            tree.Insert(9);
+            tree.Insert(1);
+            tree.Insert(6);
+            tree.Insert(8);
+            tree.Insert(10);
+            tree.ToString();
+            
 
+            //Console.WriteLine(tree.Factorial(20));
+            tree.TreePreOrderTransversal();
 
-            MyHashTable customeHashTable = new MyHashTable();
-            customeHashTable.Put(6, "A");
-            customeHashTable.Put(8, "C");
-            customeHashTable.Put(11, "C");
+            //ChildClass cc = new ChildClass();
+            //Console.WriteLine(cc);
 
-            Console.WriteLine(customeHashTable);
+            //MyHashTable customeHashTable = new MyHashTable();
+            //customeHashTable.Put(6, "A");
+            //customeHashTable.Put(8, "C");
+            //customeHashTable.Put(11, "C");
+
+            //Console.WriteLine(customeHashTable);
 
             //MyDictionary dict = new MyDictionary();
             //var result = dict.FindFirstRepeatingCharacter("aboyisajumpinggg ");

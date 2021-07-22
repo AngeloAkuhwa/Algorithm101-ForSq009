@@ -12,8 +12,10 @@
           "Core": "1.0.0",
           "CustomArray": "1.0.0",
           "CustomLinkedList": "1.0.0",
+          "DatastructureBinaryTree": "1.0.0",
           "DatastructureHashTbale": "1.0.0",
           "DictionaryDataStructure": "1.0.0",
+          "OOP-PrinciplesForSQ008": "1.0.0",
           "QueueDataStructure": "1.0.0",
           "StackDataStructure": "1.0.0"
         },
@@ -53,6 +55,11 @@
           "DataAccess.dll": {}
         }
       },
+      "DatastructureBinaryTree/1.0.0": {
+        "runtime": {
+          "DatastructureBinaryTree.dll": {}
+        }
+      },
       "DatastructureHashTbale/1.0.0": {
         "runtime": {
           "DatastructureHashTbale.dll": {}
@@ -66,6 +73,11 @@
       "Models/1.0.0": {
         "runtime": {
           "Models.dll": {}
+        }
+      },
+      "OOP-PrinciplesForSQ008/1.0.0": {
+        "runtime": {
+          "OOP-PrinciplesForSQ008.dll": {}
         }
       },
       "QueueDataStructure/1.0.0": {
@@ -111,6 +123,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "DatastructureBinaryTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "DatastructureHashTbale/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -122,6 +139,11 @@
       "sha512": ""
     },
     "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP-PrinciplesForSQ008/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -32,3 +32,7 @@ C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcore
 C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DictionaryDataStructure.pdb
 C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DatastructureHashTbale.dll
 C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DatastructureHashTbale.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DatastructureBinaryTree.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\CSharpBasicsReview\bin\Debug\netcoreapp3.1\DatastructureBinaryTree.pdb

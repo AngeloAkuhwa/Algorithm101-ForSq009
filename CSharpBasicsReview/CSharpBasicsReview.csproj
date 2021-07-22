@@ -9,9 +9,11 @@
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\CSharpDelegates\CSharpDelegates.csproj" />
     <ProjectReference Include="..\CustomArray\CustomArray.csproj" />
+    <ProjectReference Include="..\DatastructureBinaryTree\DatastructureBinaryTree.csproj" />
     <ProjectReference Include="..\DatastructureHashTbale\DatastructureHashTbale.csproj" />
     <ProjectReference Include="..\HashTable\DictionaryDataStructure.csproj" />
     <ProjectReference Include="..\LinkedList\CustomLinkedList.csproj" />
+    <ProjectReference Include="..\OOP-PrinciplesForSQ008\OOP-PrinciplesForSQ008.csproj" />
     <ProjectReference Include="..\QueueDataStructure\QueueDataStructure.csproj" />
     <ProjectReference Include="..\StackDataStructure\StackDataStructure.csproj" />
   </ItemGroup>

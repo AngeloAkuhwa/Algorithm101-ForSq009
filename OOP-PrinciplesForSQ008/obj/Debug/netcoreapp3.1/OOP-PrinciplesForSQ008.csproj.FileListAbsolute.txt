@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\bin\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\bin\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\bin\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\obj\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\obj\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\obj\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\obj\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\obj\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\OOP-PrinciplesForSQ008\obj\Debug\netcoreapp3.1\OOP-PrinciplesForSQ008.pdb

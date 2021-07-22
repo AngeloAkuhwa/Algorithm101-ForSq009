@@ -59,6 +59,16 @@
           "bin/placeholder/DataAccess.dll": {}
         }
       },
+      "DatastructureBinaryTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DatastructureBinaryTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatastructureBinaryTree.dll": {}
+        }
+      },
       "DatastructureHashTbale/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -87,6 +97,16 @@
         },
         "runtime": {
           "bin/placeholder/Models.dll": {}
+        }
+      },
+      "OOP-PrinciplesForSQ008/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/OOP-PrinciplesForSQ008.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOP-PrinciplesForSQ008.dll": {}
         }
       },
       "QueueDataStructure/1.0.0": {
@@ -137,6 +157,11 @@
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
     },
+    "DatastructureBinaryTree/1.0.0": {
+      "type": "project",
+      "path": "../DatastructureBinaryTree/DatastructureBinaryTree.csproj",
+      "msbuildProject": "../DatastructureBinaryTree/DatastructureBinaryTree.csproj"
+    },
     "DatastructureHashTbale/1.0.0": {
       "type": "project",
       "path": "../DatastructureHashTbale/DatastructureHashTbale.csproj",
@@ -151,6 +176,11 @@
       "type": "project",
       "path": "../Models/Models.csproj",
       "msbuildProject": "../Models/Models.csproj"
+    },
+    "OOP-PrinciplesForSQ008/1.0.0": {
+      "type": "project",
+      "path": "../OOP-PrinciplesForSQ008/OOP-PrinciplesForSQ008.csproj",
+      "msbuildProject": "../OOP-PrinciplesForSQ008/OOP-PrinciplesForSQ008.csproj"
     },
     "QueueDataStructure/1.0.0": {
       "type": "project",
@@ -169,8 +199,10 @@
       "Core >= 1.0.0",
       "CustomArray >= 1.0.0",
       "CustomLinkedList >= 1.0.0",
+      "DatastructureBinaryTree >= 1.0.0",
       "DatastructureHashTbale >= 1.0.0",
       "DictionaryDataStructure >= 1.0.0",
+      "OOP-PrinciplesForSQ008 >= 1.0.0",
       "QueueDataStructure >= 1.0.0",
       "StackDataStructure >= 1.0.0"
     ]
@@ -216,6 +248,9 @@
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CustomArray\\CustomArray.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\CustomArray\\CustomArray.csproj"
             },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\DatastructureBinaryTree\\DatastructureBinaryTree.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\DatastructureBinaryTree\\DatastructureBinaryTree.csproj"
+            },
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\DatastructureHashTbale\\DatastructureHashTbale.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\DatastructureHashTbale\\DatastructureHashTbale.csproj"
             },
@@ -224,6 +259,9 @@
             },
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\LinkedList\\CustomLinkedList.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\LinkedList\\CustomLinkedList.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\OOP-PrinciplesForSQ008\\OOP-PrinciplesForSQ008.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\OOP-PrinciplesForSQ008\\OOP-PrinciplesForSQ008.csproj"
             },
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\QueueDataStructure\\QueueDataStructure.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\QueueDataStructure\\QueueDataStructure.csproj"

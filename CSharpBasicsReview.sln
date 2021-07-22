@@ -17,13 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDelegates", "CSharpDelegates\CSharpDelegates.csproj", "{14C73D8D-2B31-4C41-BC0C-FB0B8B87E214}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackDataStructure", "StackDataStructure\StackDataStructure.csproj", "{B7FD17DF-96A5-453D-8D94-11ACF8581A7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackDataStructure", "StackDataStructure\StackDataStructure.csproj", "{B7FD17DF-96A5-453D-8D94-11ACF8581A7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueDataStructure", "QueueDataStructure\QueueDataStructure.csproj", "{0FF20D94-3B19-444E-8D6C-AC3ABC25A870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueDataStructure", "QueueDataStructure\QueueDataStructure.csproj", "{0FF20D94-3B19-444E-8D6C-AC3ABC25A870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDataStructure", "HashTable\DictionaryDataStructure.csproj", "{4DAFCAF0-F5A4-46CF-9FC3-7E3794CCBD17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryDataStructure", "HashTable\DictionaryDataStructure.csproj", "{4DAFCAF0-F5A4-46CF-9FC3-7E3794CCBD17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatastructureHashTbale", "DatastructureHashTbale\DatastructureHashTbale.csproj", "{64F8F849-F3F4-47B1-B17F-BFBBBAE85104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatastructureHashTbale", "DatastructureHashTbale\DatastructureHashTbale.csproj", "{64F8F849-F3F4-47B1-B17F-BFBBBAE85104}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-PrinciplesForSQ008", "OOP-PrinciplesForSQ008\OOP-PrinciplesForSQ008.csproj", "{6599577D-4DF7-4817-841E-72509B41D0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatastructureBinaryTree", "DatastructureBinaryTree\DatastructureBinaryTree.csproj", "{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{64F8F849-F3F4-47B1-B17F-BFBBBAE85104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64F8F849-F3F4-47B1-B17F-BFBBBAE85104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64F8F849-F3F4-47B1-B17F-BFBBBAE85104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6599577D-4DF7-4817-841E-72509B41D0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6599577D-4DF7-4817-841E-72509B41D0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6599577D-4DF7-4817-841E-72509B41D0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6599577D-4DF7-4817-841E-72509B41D0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

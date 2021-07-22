@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\bin\Debug\netcoreapp3.1\DatastructureBinaryTree.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\bin\Debug\netcoreapp3.1\DatastructureBinaryTree.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\bin\Debug\netcoreapp3.1\DatastructureBinaryTree.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\obj\Debug\netcoreapp3.1\DatastructureBinaryTree.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\obj\Debug\netcoreapp3.1\DatastructureBinaryTree.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\obj\Debug\netcoreapp3.1\DatastructureBinaryTree.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\obj\Debug\netcoreapp3.1\DatastructureBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\obj\Debug\netcoreapp3.1\DatastructureBinaryTree.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\DatastructureBinaryTree\obj\Debug\netcoreapp3.1\DatastructureBinaryTree.pdb
