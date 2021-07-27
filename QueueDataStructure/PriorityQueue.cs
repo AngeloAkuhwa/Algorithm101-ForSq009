@@ -87,7 +87,6 @@ namespace QueueDataStructure
                     {
                         art[counter + 1] = number;
                         art[counter++] = number;
-
                     }
 
                     break;

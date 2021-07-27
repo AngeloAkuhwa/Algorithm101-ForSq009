@@ -3,14 +3,60 @@ using DatastructureHashTbale;
 using DictionaryDataStructure;
 using OOP_PrinciplesForSQ008;
 using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
 
 namespace CSharpBasicsReview
 {
+    public class Employee
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; } 
+        public string Email { get; set; }
+        public Employee()
+        {
+
+        }
+        public string GetFullName()
+        {
+            return FirstName + LastName;
+        }
+        public Employee(int id, string firstname)
+        {
+            this.FirstName = firstname;
+            this.Id = id;
+        }
+       
+    }
+
+    public class TempEmp : Employee
+    {
+        public TempEmp()
+        {
+
+        }
+        public TempEmp(int Id, string name):base(Id,name)
+        {}
+
+        public string GetTempEmpFullName()
+        {
+            return FirstName + LastName + "tem emp";
+        }
+    }
 
     class Program
     {
+        /// <summary>
+        /// property depency injection
+        /// </summary>
+       
+
+
         public static int[] removeEven(int[] Arr, int size)
-        {            
+        {
+           
             int count = 0;
 
            for (int i = 0; i < size; i++)
@@ -78,21 +124,36 @@ namespace CSharpBasicsReview
             }
             return product;
         }
+
+        
+        
+
         static void Main(string[] args)
         {
-            Tree tree = new Tree();
-            tree.Insert(7);
-            tree.Insert(4);
-            tree.Insert(9);
-            tree.Insert(1);
-            tree.Insert(6);
-            tree.Insert(8);
-            tree.Insert(10);
-            tree.ToString();
-            
+            var names = new List<string> { "sam", "alexia", "simon", "sumanth", "tony", "sam", "amr", "mark", "drew" };
+            var moreThanFiveLetters = names.Where(w => w.Length > 5).ToList();
+            names[0] = "benjamin";
 
-            //Console.WriteLine(tree.Factorial(20));
-            tree.TreePreOrderTransversal();
+            foreach (var name in moreThanFiveLetters)
+            {
+                Console.WriteLine(name);
+            }
+
+
+
+            //Tree tree = new Tree();
+            //tree.Insert(7);
+            //tree.Insert(4);
+            //tree.Insert(9);
+            //tree.Insert(1);
+            //tree.Insert(6);
+            //tree.Insert(8);
+            //tree.Insert(10);
+            //tree.ToString();
+
+
+            ////Console.WriteLine(tree.Factorial(20));
+            //tree.TreePreOrderTransversal();
 
             //ChildClass cc = new ChildClass();
             //Console.WriteLine(cc);

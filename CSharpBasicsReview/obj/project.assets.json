@@ -119,6 +119,16 @@
           "bin/placeholder/QueueDataStructure.dll": {}
         }
       },
+      "SolidPrinciplesSq008/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SolidPrinciplesSq008.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolidPrinciplesSq008.dll": {}
+        }
+      },
       "StackDataStructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -187,6 +197,11 @@
       "path": "../QueueDataStructure/QueueDataStructure.csproj",
       "msbuildProject": "../QueueDataStructure/QueueDataStructure.csproj"
     },
+    "SolidPrinciplesSq008/1.0.0": {
+      "type": "project",
+      "path": "../SolidPrinciplesSq008/SolidPrinciplesSq008.csproj",
+      "msbuildProject": "../SolidPrinciplesSq008/SolidPrinciplesSq008.csproj"
+    },
     "StackDataStructure/1.0.0": {
       "type": "project",
       "path": "../StackDataStructure/StackDataStructure.csproj",
@@ -204,6 +219,7 @@
       "DictionaryDataStructure >= 1.0.0",
       "OOP-PrinciplesForSQ008 >= 1.0.0",
       "QueueDataStructure >= 1.0.0",
+      "SolidPrinciplesSq008 >= 1.0.0",
       "StackDataStructure >= 1.0.0"
     ]
   },
@@ -265,6 +281,9 @@
             },
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\QueueDataStructure\\QueueDataStructure.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\QueueDataStructure\\QueueDataStructure.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\SolidPrinciplesSq008\\SolidPrinciplesSq008.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\SolidPrinciplesSq008\\SolidPrinciplesSq008.csproj"
             },
             "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\StackDataStructure\\StackDataStructure.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\CSharpBasicsReview\\StackDataStructure\\StackDataStructure.csproj"

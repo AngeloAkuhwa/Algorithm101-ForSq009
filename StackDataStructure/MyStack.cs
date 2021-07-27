@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Text;
 
 namespace StackDataStructure
@@ -26,8 +27,28 @@ namespace StackDataStructure
                 builder.Append(item);
             }
             return builder.ToString();
-        } 
+        }
 
+        public static double Calc(string expression)
+        {
+            DataTable com = new DataTable();
+            string result = null;
+
+            if (string.IsNullOrWhiteSpace(expression))
+            {
+                return default(double);
+            }
+
+            if (IsBalancedExpression(expression))
+            {
+                result = com.Compute(expression, null).ToString();
+
+            }
+            bool Check = double.TryParse(result, out var finalResult);
+
+            return Check ? finalResult : default;
+
+        }
         public static bool IsBalancedExpression(string str)
         {
             Stack<char> stack = new Stack<char>();

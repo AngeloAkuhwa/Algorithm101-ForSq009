@@ -63,10 +63,7 @@ namespace DictionaryDataStructure
         }
 
         public char OptimisedFindingFirstRepeatedCharacter(string str)
-        {
-            int[] arr = new int[5];
-            LinkedList<int[]> arrt = new LinkedList<int[]>();
-            
+        {            
             HashSet<char> listOfChars = new HashSet<char>();
 
             foreach (char character in str)

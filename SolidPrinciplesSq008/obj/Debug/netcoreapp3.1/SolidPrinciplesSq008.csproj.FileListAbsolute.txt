@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\bin\Debug\netcoreapp3.1\SolidPrinciplesSq008.deps.json
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\bin\Debug\netcoreapp3.1\SolidPrinciplesSq008.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\bin\Debug\netcoreapp3.1\SolidPrinciplesSq008.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\obj\Debug\netcoreapp3.1\SolidPrinciplesSq008.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\obj\Debug\netcoreapp3.1\SolidPrinciplesSq008.AssemblyInfo.cs
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\obj\Debug\netcoreapp3.1\SolidPrinciplesSq008.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\obj\Debug\netcoreapp3.1\SolidPrinciplesSq008.dll
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\obj\Debug\netcoreapp3.1\SolidPrinciplesSq008.pdb
+C:\Users\hp\source\repos\CSharpBasicsReview\SolidPrinciplesSq008\obj\Debug\netcoreapp3.1\SolidPrinciplesSq008.csprojAssemblyReference.cache

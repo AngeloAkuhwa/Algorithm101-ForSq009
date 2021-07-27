@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatastructureHashTbale", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-PrinciplesForSQ008", "OOP-PrinciplesForSQ008\OOP-PrinciplesForSQ008.csproj", "{6599577D-4DF7-4817-841E-72509B41D0A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatastructureBinaryTree", "DatastructureBinaryTree\DatastructureBinaryTree.csproj", "{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatastructureBinaryTree", "DatastructureBinaryTree\DatastructureBinaryTree.csproj", "{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanHackAlgorithmAssessment", "VanHackAlgorithmAssessment\VanHackAlgorithmAssessment.csproj", "{3B7BC871-3375-45A1-83A3-B8BFFE42F792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesSq008", "SolidPrinciplesSq008\SolidPrinciplesSq008.csproj", "{4D16F6DF-0DC8-4329-8088-DC542F2FE540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD71DE20-E1AC-46FD-ADEC-718F5AEE87FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7BC871-3375-45A1-83A3-B8BFFE42F792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7BC871-3375-45A1-83A3-B8BFFE42F792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7BC871-3375-45A1-83A3-B8BFFE42F792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7BC871-3375-45A1-83A3-B8BFFE42F792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D16F6DF-0DC8-4329-8088-DC542F2FE540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D16F6DF-0DC8-4329-8088-DC542F2FE540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D16F6DF-0DC8-4329-8088-DC542F2FE540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D16F6DF-0DC8-4329-8088-DC542F2FE540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
